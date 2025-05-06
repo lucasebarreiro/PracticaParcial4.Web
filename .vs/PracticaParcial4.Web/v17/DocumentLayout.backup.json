@@ -1,0 +1,177 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Cursos\\Practicas Parcial Web 3\\PracticaParcial\\PracticaParcial4.Web\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B0BE1F7E-A82A-4151-8084-CBE29AB295DB}|PracticaParcial4.Web\\PracticaParcial4.Web.csproj|c:\\cursos\\practicas parcial web 3\\practicaparcial\\practicaparcial4.web\\practicaparcial4.web\\views\\shared\\pa\u00F1aleslayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B0BE1F7E-A82A-4151-8084-CBE29AB295DB}|PracticaParcial4.Web\\PracticaParcial4.Web.csproj|solutionrelative:practicaparcial4.web\\views\\shared\\pa\u00F1aleslayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0BE1F7E-A82A-4151-8084-CBE29AB295DB}|PracticaParcial4.Web\\PracticaParcial4.Web.csproj|c:\\cursos\\practicas parcial web 3\\practicaparcial\\practicaparcial4.web\\practicaparcial4.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0BE1F7E-A82A-4151-8084-CBE29AB295DB}|PracticaParcial4.Web\\PracticaParcial4.Web.csproj|solutionrelative:practicaparcial4.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0BE1F7E-A82A-4151-8084-CBE29AB295DB}|PracticaParcial4.Web\\PracticaParcial4.Web.csproj|c:\\cursos\\practicas parcial web 3\\practicaparcial\\practicaparcial4.web\\practicaparcial4.web\\interfaces\\ipa\u00F1alesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0BE1F7E-A82A-4151-8084-CBE29AB295DB}|PracticaParcial4.Web\\PracticaParcial4.Web.csproj|solutionrelative:practicaparcial4.web\\interfaces\\ipa\u00F1alesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0BE1F7E-A82A-4151-8084-CBE29AB295DB}|PracticaParcial4.Web\\PracticaParcial4.Web.csproj|c:\\cursos\\practicas parcial web 3\\practicaparcial\\practicaparcial4.web\\practicaparcial4.web\\controllers\\principalcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0BE1F7E-A82A-4151-8084-CBE29AB295DB}|PracticaParcial4.Web\\PracticaParcial4.Web.csproj|solutionrelative:practicaparcial4.web\\controllers\\principalcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0BE1F7E-A82A-4151-8084-CBE29AB295DB}|PracticaParcial4.Web\\PracticaParcial4.Web.csproj|c:\\cursos\\practicas parcial web 3\\practicaparcial\\practicaparcial4.web\\practicaparcial4.web\\views\\principal\\inicio.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B0BE1F7E-A82A-4151-8084-CBE29AB295DB}|PracticaParcial4.Web\\PracticaParcial4.Web.csproj|solutionrelative:practicaparcial4.web\\views\\principal\\inicio.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0BE1F7E-A82A-4151-8084-CBE29AB295DB}|PracticaParcial4.Web\\PracticaParcial4.Web.csproj|c:\\cursos\\practicas parcial web 3\\practicaparcial\\practicaparcial4.web\\practicaparcial4.web\\controllers\\pa\u00F1alescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0BE1F7E-A82A-4151-8084-CBE29AB295DB}|PracticaParcial4.Web\\PracticaParcial4.Web.csproj|solutionrelative:practicaparcial4.web\\controllers\\pa\u00F1alescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0BE1F7E-A82A-4151-8084-CBE29AB295DB}|PracticaParcial4.Web\\PracticaParcial4.Web.csproj|c:\\cursos\\practicas parcial web 3\\practicaparcial\\practicaparcial4.web\\practicaparcial4.web\\models\\bebe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0BE1F7E-A82A-4151-8084-CBE29AB295DB}|PracticaParcial4.Web\\PracticaParcial4.Web.csproj|solutionrelative:practicaparcial4.web\\models\\bebe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0BE1F7E-A82A-4151-8084-CBE29AB295DB}|PracticaParcial4.Web\\PracticaParcial4.Web.csproj|c:\\cursos\\practicas parcial web 3\\practicaparcial\\practicaparcial4.web\\practicaparcial4.web\\services\\pa\u00F1alesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0BE1F7E-A82A-4151-8084-CBE29AB295DB}|PracticaParcial4.Web\\PracticaParcial4.Web.csproj|solutionrelative:practicaparcial4.web\\services\\pa\u00F1alesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0BE1F7E-A82A-4151-8084-CBE29AB295DB}|PracticaParcial4.Web\\PracticaParcial4.Web.csproj|c:\\cursos\\practicas parcial web 3\\practicaparcial\\practicaparcial4.web\\practicaparcial4.web\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B0BE1F7E-A82A-4151-8084-CBE29AB295DB}|PracticaParcial4.Web\\PracticaParcial4.Web.csproj|solutionrelative:practicaparcial4.web\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Pa\u00F1alesLayout.cshtml",
+              "DocumentMoniker": "C:\\Cursos\\Practicas Parcial Web 3\\PracticaParcial\\PracticaParcial4.Web\\PracticaParcial4.Web\\Views\\Shared\\Pa\u00F1alesLayout.cshtml",
+              "RelativeDocumentMoniker": "PracticaParcial4.Web\\Views\\Shared\\Pa\u00F1alesLayout.cshtml",
+              "ToolTip": "C:\\Cursos\\Practicas Parcial Web 3\\PracticaParcial\\PracticaParcial4.Web\\PracticaParcial4.Web\\Views\\Shared\\Pa\u00F1alesLayout.cshtml",
+              "RelativeToolTip": "PracticaParcial4.Web\\Views\\Shared\\Pa\u00F1alesLayout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-06T19:45:48.959Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IPa\u00F1alesService.cs",
+              "DocumentMoniker": "C:\\Cursos\\Practicas Parcial Web 3\\PracticaParcial\\PracticaParcial4.Web\\PracticaParcial4.Web\\Interfaces\\IPa\u00F1alesService.cs",
+              "RelativeDocumentMoniker": "PracticaParcial4.Web\\Interfaces\\IPa\u00F1alesService.cs",
+              "ToolTip": "C:\\Cursos\\Practicas Parcial Web 3\\PracticaParcial\\PracticaParcial4.Web\\PracticaParcial4.Web\\Interfaces\\IPa\u00F1alesService.cs",
+              "RelativeToolTip": "PracticaParcial4.Web\\Interfaces\\IPa\u00F1alesService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T19:34:13.013Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Pa\u00F1alesService.cs",
+              "DocumentMoniker": "C:\\Cursos\\Practicas Parcial Web 3\\PracticaParcial\\PracticaParcial4.Web\\PracticaParcial4.Web\\Services\\Pa\u00F1alesService.cs",
+              "RelativeDocumentMoniker": "PracticaParcial4.Web\\Services\\Pa\u00F1alesService.cs",
+              "ToolTip": "C:\\Cursos\\Practicas Parcial Web 3\\PracticaParcial\\PracticaParcial4.Web\\PracticaParcial4.Web\\Services\\Pa\u00F1alesService.cs",
+              "RelativeToolTip": "PracticaParcial4.Web\\Services\\Pa\u00F1alesService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T19:34:00.394Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Bebe.cs",
+              "DocumentMoniker": "C:\\Cursos\\Practicas Parcial Web 3\\PracticaParcial\\PracticaParcial4.Web\\PracticaParcial4.Web\\Models\\Bebe.cs",
+              "RelativeDocumentMoniker": "PracticaParcial4.Web\\Models\\Bebe.cs",
+              "ToolTip": "C:\\Cursos\\Practicas Parcial Web 3\\PracticaParcial\\PracticaParcial4.Web\\PracticaParcial4.Web\\Models\\Bebe.cs",
+              "RelativeToolTip": "PracticaParcial4.Web\\Models\\Bebe.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T19:33:10.988Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Pa\u00F1alesController.cs",
+              "DocumentMoniker": "C:\\Cursos\\Practicas Parcial Web 3\\PracticaParcial\\PracticaParcial4.Web\\PracticaParcial4.Web\\Controllers\\Pa\u00F1alesController.cs",
+              "RelativeDocumentMoniker": "PracticaParcial4.Web\\Controllers\\Pa\u00F1alesController.cs",
+              "ToolTip": "C:\\Cursos\\Practicas Parcial Web 3\\PracticaParcial\\PracticaParcial4.Web\\PracticaParcial4.Web\\Controllers\\Pa\u00F1alesController.cs",
+              "RelativeToolTip": "PracticaParcial4.Web\\Controllers\\Pa\u00F1alesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T19:27:02.988Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Cursos\\Practicas Parcial Web 3\\PracticaParcial\\PracticaParcial4.Web\\PracticaParcial4.Web\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "PracticaParcial4.Web\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Cursos\\Practicas Parcial Web 3\\PracticaParcial\\PracticaParcial4.Web\\PracticaParcial4.Web\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "PracticaParcial4.Web\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-06T19:15:47.465Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Inicio.cshtml",
+              "DocumentMoniker": "C:\\Cursos\\Practicas Parcial Web 3\\PracticaParcial\\PracticaParcial4.Web\\PracticaParcial4.Web\\Views\\Principal\\Inicio.cshtml",
+              "RelativeDocumentMoniker": "PracticaParcial4.Web\\Views\\Principal\\Inicio.cshtml",
+              "ToolTip": "C:\\Cursos\\Practicas Parcial Web 3\\PracticaParcial\\PracticaParcial4.Web\\PracticaParcial4.Web\\Views\\Principal\\Inicio.cshtml",
+              "RelativeToolTip": "PracticaParcial4.Web\\Views\\Principal\\Inicio.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-06T19:13:18.77Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PrincipalController.cs",
+              "DocumentMoniker": "C:\\Cursos\\Practicas Parcial Web 3\\PracticaParcial\\PracticaParcial4.Web\\PracticaParcial4.Web\\Controllers\\PrincipalController.cs",
+              "RelativeDocumentMoniker": "PracticaParcial4.Web\\Controllers\\PrincipalController.cs",
+              "ToolTip": "C:\\Cursos\\Practicas Parcial Web 3\\PracticaParcial\\PracticaParcial4.Web\\PracticaParcial4.Web\\Controllers\\PrincipalController.cs",
+              "RelativeToolTip": "PracticaParcial4.Web\\Controllers\\PrincipalController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T19:12:52.528Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Cursos\\Practicas Parcial Web 3\\PracticaParcial\\PracticaParcial4.Web\\PracticaParcial4.Web\\Program.cs",
+              "RelativeDocumentMoniker": "PracticaParcial4.Web\\Program.cs",
+              "ToolTip": "C:\\Cursos\\Practicas Parcial Web 3\\PracticaParcial\\PracticaParcial4.Web\\PracticaParcial4.Web\\Program.cs",
+              "RelativeToolTip": "PracticaParcial4.Web\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T19:11:50.722Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
