@@ -1,3 +1,4 @@
+using PracticaParcial4.Web.Helpérs;
 using PracticaParcial4.Web.Interfaces;
 using PracticaParcial4.Web.Services;
 
@@ -6,6 +7,7 @@ var builder = WebApplication.CreateBuilder(args);
 // Add services to the container.
 builder.Services.AddControllersWithViews();
 builder.Services.AddScoped<IPañalesService, PañalesService>();
+builder.Services.AddScoped<ITallaService, TallaHelper>();
 
 var app = builder.Build();
 

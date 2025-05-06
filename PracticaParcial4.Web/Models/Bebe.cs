@@ -13,4 +13,7 @@ public class Bebe
 
     [Range(0, 5, ErrorMessage = "La edad debe estar entre 0 y 5 años.")]
     public int Edad { get; set; }
+
+    public string? TallaPañal { get; set; }
+
 }

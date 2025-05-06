@@ -1,0 +1,31 @@
+﻿@model List<Bebe>;
+
+@{
+    ViewData["Title"] = "Listar Pañales";
+}
+
+<h1>Resultados</h1>
+<div class="table-responsive">
+    <table class="table table-striped">
+        <thead>
+            <tr>
+                <th>Nombre</th>
+                <th>Edad</th>
+                <th>Peso</th>
+                <th>=</th>
+                <th>Talla de Pañal</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var bebe in Model)
+            {
+                <tr>
+                    <td>@bebe.Nombre</td>
+                    <td>@bebe.Edad</td>
+                    <td>@bebe.Peso</td>
+                    <td>=</td>
+                    <td>@bebe.TallaPañal</td>
+                </tr>
+            }
+        </tbody>
+    </table>
